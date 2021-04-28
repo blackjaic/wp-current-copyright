@@ -19,7 +19,7 @@
  */
 function current_copyright_setup() {
 //  Nothing really to do, but here's where it would go if you had 
-//  Customer post types or options to set up.
+//  custom post types or options to set up.
      ;
 } 
 add_action( 'init', 'current_copyright_setup' );
